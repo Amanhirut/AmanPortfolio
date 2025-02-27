@@ -65,7 +65,9 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "ajv": "^8.17.1",
+    "gh-pages": "^6.3.0",
     "npm-force-resolutions": "^0.0.10"
   }
 }

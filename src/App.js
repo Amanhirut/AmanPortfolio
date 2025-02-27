@@ -5,7 +5,7 @@ import Layout from './components/Layout/Layout';
 
 function App() {
   return (
-   <Routes>
+   <Routes basename="/AmanPortfolio">
       <Route path='/' element={<Layout/>}/>
    </Routes>
    
