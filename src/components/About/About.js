@@ -19,7 +19,7 @@ function About() {
 
           </p>
           <a href="#read-more" className="btn">
-            Read More
+            Read More!
           </a>
         </div>
       </section>
